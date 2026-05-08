@@ -1,2 +1,7 @@
 src/.env
 src/node_modules
+src/.DS_Store
+src/.vscode
+src/dist
+src/build
+frontend/node_modules
